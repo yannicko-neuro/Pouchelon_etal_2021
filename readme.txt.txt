@@ -1,0 +1,1 @@
+requires NIFTI tools and the Allen Mouse brain Atlas converted to .nii
